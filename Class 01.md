@@ -309,8 +309,46 @@ __4. switch statements__
  
 ---
 
-> ## 3. Basic JavaScript Instructions
+> ## 3. Basic JavaScript Instructions:
+ 
+* Arrays: An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 
+ ![Arrays](https://media.geeksforgeeks.org/wp-content/uploads/C-Arrays.jpg)
+    
+    1. consider using an array whenever you are working with a list or a set of values that are related to each other.
+    2. Arrays are especially helpful when you do not know how many items a list will contain.
+    
+ * Creating an Array: 
+     
+    Example: 
+         
+         var colors;
+         colors ['white', 'black', ' custom '];
+         
+         or 
+         
+         var colors = new Array('white ' , 'black', 'custom ' );
+         
+ * Values in Arrays: each item in an array is automatically given a number called an index. This can be used to access specific items in the array.
+   
+        var colors;
+        colors= ['white' ,'black ' ,' custom'];
+        
+        INDEX   VALUE
+          0     'white'
+          1      'black'
+          2     'custom'
+        
+* Accessing Items in an Array: To retrieve the third item on the list of the above example, the array name is specified along with the index number in square brackets.
+
+        var itemThree;
+        itemThree = colors [2] ;
+        
+* Number of Items In an Array: Each array has a property called length, which holds the number of items in the array
+
+        var numColors ;  
+        numColors =col ors. length;
+        
 ---
 
 > ## 4. switch statements
