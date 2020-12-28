@@ -8,7 +8,7 @@ __2. Boxes__
 
 __3. Basic JavaScript Instructions__
 
-__4. switch statements__
+__4. Decisions & Loops "switch statements"__
 
 ---
 
@@ -351,10 +351,34 @@ __4. switch statements__
         
 ---
 
-> ## 4. switch statements
+> ## 4. Decisions & Loops "Switch Statements":
+ 
+* The Switch Statements:  A switch statement starts with a variable called the switch value.Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+
+For Example: 
+
+      switch (level) {
+          case 'One ':
+          title= 'Level 1 ' ;
+          break;
+          case 'Two':
+          title = ' Level 2 ' ;
+          break;
+          case ' Three' :
+          title = 'Level 3' ;
+          break ;
+          default :
+          title= 'Test';
+          break;
+        }
 
 
+IF....Else  VS  SWITCH
 
+| IF ... ELSE                                                                                                                   | SWITCH                                                                                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| There is no need to provide an else   option. (You can just use an if option.  (You can just use an if statement.)            | You have a default option that is run if none of the cases match.                                                                                                           |
+| With a series of if statements, they are all checked even if a match has been found (so it performs more slowly than switch). | If a match is found, that code is run; then the break statement stops the rest of the switch statement running (providing better performance than multiple i f statements). |
 
 
 
