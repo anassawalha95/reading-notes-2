@@ -97,6 +97,130 @@ __4. switch statements__
 
 > ## 2. Boxes__
 
+* Box: is sized just big enough to hold its contents. 
+
+* To set dimensions for a box you can use the height and width properties:
+
+ Example:
+ 
+       <div>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Corporis laudantium quidem earum hic quos dolore,
+          cupiditate iure facere pariatur vitae iste quas velit aliquam. Voluptate,
+          reprehenderit! Eveniet laborum saepe labore!</p>
+       </div>
+       
+       
+       div.box {
+       height: 300px;
+       width: 300px;
+       background-color: #bbbbaa;}
+       p {
+       height: 75%;
+       width: 75%;
+       background-color: #0088dd;}
+       
+* To Limit dimensions for a box you can use the min-height,max-hight, min-width, max-width properties:
+     
+ Example: 
+ 
+       div.box {
+       min-height: 200px;
+       max-width: 300px;
+       background-color: #bbbbaa;}
+       p {
+       max-height: 75%;
+       min-width: 75%;
+       background-color: #0088dd;}
+       
+* overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:  
+
+ 1. hidden: This property simply hides any extra content that does not fit in the box.
+ 
+ 2. scroll: This property adds a scrollbar to the box so that users can scroll to see the missing content.
+ 
+ Example: 
+   
+      p.one {
+      overflow: hidden;}
+      p.two {
+      overflow: scroll;}
+      
+      
+ * Margin, Border & Padding:
+ 
+  ![Margin, Border & Padding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThj10hsc4sNgrelzln9XWgf_63cnYwGcVgA&usqp=CAU)
+ 
+  1. Margin: The margin property controls the gap between boxes.
+  
+         margin-left:5px;
+         margin-right:5px;
+         margin-top:5px;
+         margin-bottom:5px;
+         
+         or
+          
+         margin:5px 5px 5px 5px;
+     
+   Note:  for centering element set margin left and right to auto   
+   
+ 
+  2. Border property allows you to specify the width, style and color of a border
+   
+   Example: 
+     
+         border-style: dotted ;
+         border-size: 3px ;
+         border-color:#0088dd;
+         
+         or
+         
+         border: solid 5px #000000;
+         
+         
+         
+  3. padding: The padding property allows you to specify how much space should appear between the content of an element and its border.
+  
+   Example: 
+         
+         padding-left:5px;
+         padding-right:5px;
+         padding-top:5px;
+         padding-bottom:5px;
+         
+         or
+         
+         padding:5px 5px 5px 5px;
+         
+         
+ * Display: The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an element from the page.
+ 
+   display values are: 
+     
+     1. inline: This causes a block-level element to act like an inline element.
+     
+     2. block: This causes an inline element to act like a block-level element.
+     
+     3. inline-block: This causes a block-level element to flow like an inline element, while retaining other features of a block-level element.
+     
+     4. none: This hides an element from the page.
+     
+  
+  Example:
+  
+       display:inline;
+       display:block;
+       display:inline-block;
+       display:none;
+       
+       
+* Box Shadow: The box-shadow property allows you to add a drop shadow around a box.
+
+  ![Box Shadow](https://s3-us-west-2.amazonaws.com/s.cdpn.io/66763/box-shadow-syntax.png)
+  
+   Example:
+       
+          box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 ---
 
 > ## 3. Basic JavaScript Instructions
