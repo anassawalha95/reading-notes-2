@@ -20,13 +20,15 @@ __4. switch statements__
   
   Example: 
   
-    `<ol>
-        <li> First Item </li> 
+    ` <ol>`
+    
+    `    <li> First Item </li>` 
        
-        <li> Second Item </li> 
+    `    <li> Second Item </li>` 
        
-        <li> Third Item </li>        
-    </ol>` 
+    `    <li> Third Item </li>` 
+        
+    ` </ol>` 
     
   
   * Unordered Lists: whrere items begins with a bullet point
