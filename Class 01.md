@@ -53,15 +53,15 @@ __4. switch statements__
    
       ` <dl>`
       
-        ` <dt> 1 Item </dt>`
+      ` <dt> 1 Item </dt>`
         
-        ` <dd> First Item </dd>`
+      ` <dd> First Item </dd>`
         
-        ` <dt> 2 Items </dt>`
+      ` <dt> 2 Items </dt>`
         
-        ` <dd> Second Item </dd>`
+      ` <dd> Second Item </dd>`
         
-        ` <dd> Third Item </dd>`
+      ` <dd> Third Item </dd>`
         
       ` </dl>`
 
