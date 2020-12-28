@@ -12,7 +12,7 @@ __2. Boxes__
 
 __3. Basic JavaScript Instructions__
 
-__4. Decisions & Loops "switch statements"__
+__4. Decisions & Loops "Switch Statements"__
 
 
 
