@@ -51,19 +51,19 @@ __4. switch statements__
   * Definition Lists: are made up of a set of terms along with the definitions for each of those terms.
    Example:
    
-      `<dl>`
+      ` <dl>`
       
-        `<dt> 1 Item </dt>`
+        ` <dt> 1 Item </dt>`
         
-        `<dd> First Item </dd>`
+        ` <dd> First Item </dd>`
         
-        `<dt> 2 Items </dt>`
+        ` <dt> 2 Items </dt>`
         
-        `<dd> Second Item </dd>`
+        ` <dd> Second Item </dd>`
         
-        `<dd> Third Item </dd>`
+        ` <dd> Third Item </dd>`
         
-      `</dl>`
+      ` </dl>`
 
 
 ---
