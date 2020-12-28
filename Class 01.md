@@ -233,7 +233,7 @@ __4. switch statements__
  
  
  
-* Example :   
+#### Copy and Paste This Example to your index.html :   
 
           <!DOCTYPE html>
            <html>
