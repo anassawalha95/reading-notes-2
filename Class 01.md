@@ -22,11 +22,11 @@ __4. switch statements__
   
     `<ol>`
     
-       ` <li> First Item </li>` 
+       ` <li> First Item </li> ` 
        
-       `<li> Second Item </li>` 
+       ` <li> Second Item </li> ` 
        
-       `<li> Third Item </li>`
+       ` <li> Third Item </li> `
        
      `</ol>` 
     
@@ -50,6 +50,7 @@ __4. switch statements__
   
   * Definition Lists: are made up of a set of terms along with the definitions for each of those terms.
    Example:
+   
       `<dl>`
       
         `<dt> 1 Item </dt>`
