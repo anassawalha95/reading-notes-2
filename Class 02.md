@@ -1,4 +1,4 @@
-> # Class 01 *Dec 28 2020:*
+> # Class 02 *Jan 3, 2021:*
 
 > ## topics
 
