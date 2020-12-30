@@ -4,7 +4,20 @@
 
 ## Table of Content 
 
-## Class 01  *Dec 28 2020:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2001)
+
+
+## Class 01  *Jan 03 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2001)
+
+__ **101 & 102 Review**__ 
+
+
+
+
+-----
+
+
+
+## Class 02  *Jan 04 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2002)
 
 __1. Lists__ 
 
