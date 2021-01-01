@@ -1,7 +1,7 @@
 
 > # Class 01 *Jan 03 2021:*
 
-> ## topics
+> ## Topics
   
  * **101 & 102 Review:** 
 
