@@ -8,6 +8,7 @@
 ## Class 01  *Jan 03 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2001)
 
 * **101 & 102 Review:** 
+
    1. Web Pages Structure
     
    2. Extra Markup
