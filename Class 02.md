@@ -1,6 +1,6 @@
 > # Class 02 *Jan , 4, 2021:*
 
-> ## topics
+> ## Topics
 
 __1. Lists__ 
 
