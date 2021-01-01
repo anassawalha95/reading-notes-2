@@ -8,15 +8,15 @@
 ## Class 01  *Jan 03 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2001)
 
 * **101 & 102 Review:** 
-    1. Web Pages Structure
+   1. Web Pages Structure
     
-    2. Extra Markup
+   2. Extra Markup
     
-    3. HTML5 Layout
+   3. HTML5 Layout
     
-    4. Process & Design
+   4. Process & Design
     
-    5. Javascript The ABC of Programming
+   5. Javascript The ABC of Programming
 
 ---
 
