@@ -23,13 +23,13 @@
 
 ## Class 02  *Jan 04 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2002)
 
-__1. Lists__ 
+    __1. Lists__ 
 
-__2. Boxes__ 
+    __2. Boxes__ 
 
-__3. Basic JavaScript Instructions__
+    __3. Basic JavaScript Instructions__
 
-__4. Decisions & Loops "Switch Statements"__
+    __4. Decisions & Loops "Switch Statements"__
 
 
 
