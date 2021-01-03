@@ -95,7 +95,7 @@ __4. Decisions & Loops "switch statements"__
     
 ---
 
-> ## 2. Boxes__
+> ## 2. Boxes
 
 * Box: is sized just big enough to hold its contents. 
 
