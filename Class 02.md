@@ -1,4 +1,4 @@
-> # Class 02 *Jan 02 2021:*
+> # Class 02 *Jan 04 2021:*
 
 > ## Topics
 
