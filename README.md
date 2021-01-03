@@ -21,8 +21,20 @@
 
 ---
 
-
 ## Class 02  *Jan 04 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2002)
+
+
+   1. Text
+    
+   2. Introducing CSS
+    
+   3. Basic JavaScript Instructions
+    
+   4. Decisions and Loops
+    
+---
+
+## Class 03  *Jan 05 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2003)
 
    1. Lists 
  
