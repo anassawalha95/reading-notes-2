@@ -53,9 +53,9 @@
    
    13. Definition `<dfn>`: The first time you explain some new terminology (perhaps an academic concept or some jargon) in a document, it is known as the defining instance of it.
    
-   14. Author Details <address>: The <address> element has quite a specific use: to contain contact details for the author of the page.
+   14. Author Details `<address>`: The <address> element has quite a specific use: to contain contact details for the author of the page.
    
-   15. `<ins>` `<del>`: The <ins> element can be used to show content that has been inserted into a document, while the <del> element can show text that has been deleted from it.
+   15. `<ins>` `<del>`: The `<ins>` element can be used to show content that has been inserted into a document, while the `<del>` element can show text that has been deleted from it.
    
    16. The `<s>` element indicates something that is no longer  accurate or relevant (but that should not be deleted).
    
@@ -64,9 +64,9 @@
 
 > ## 2. Introducing CSS
 
-* ** CSS Stand for:** cascading style sheet that allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
+* **CSS Stand for:** cascading style sheet that allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
 
-* You can use CSS in three ways :
+* **You can use CSS in three ways:**
    
    1. by adding the styles in the head tag useing style tag
    
