@@ -41,9 +41,9 @@
    
    7. Horizontal Rules `<hr>`
    
-   8. Strong ` <strong>`: The use of the <strong> element indicates that its content has strong importance. 
+   8. Strong ` <strong></strong>`: The use of the <strong> element indicates that its content has strong importance. 
    
-   9. Emphasis ` <em>`: The <em> element indicates emphasis that subtly changes the meaning of a sentence. 
+   9. Emphasis ` <em></em>`: The <em> element indicates emphasis that subtly changes the meaning of a sentence. 
    
    10. Quotations `<blockquote>`: The `<blockquote>` element is used for longer quotes that take up an entire paragraph.
    
