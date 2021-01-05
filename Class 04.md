@@ -552,6 +552,30 @@ Example:
  
 > ## 4. Pair Programming
 
+![ Pair Programming](https://raw.githubusercontent.com/DXHeroes/knowledge-base-content/master/files/pair-programming.svg?sanitize=true)
+
 * **Pair programming** is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
+
+
+* **Why pair program?**
+
+* There are six main reasons that indicates why is pair programming is very important:
+
+ 1. Greater efficiency: pair programing takes slightly longer, but produces higher-quality code that doesn’t require later effort in troubleshooting and debugging (let alone exposing users to a broken product). So, in the long-run, it’s often actually more efficient than two people working on separate features
+ 
+ 2. Engaged collaboration: When two programmers focus on the same code, the experience is more engaging and both programmers are more focused than if they were working alone
+ 
+ 3. Learning from fellow students: working with a teammate can expose developers to techniques they otherwise would not have thought of. If one developer has a unique approach to a specific problem, pair programming exposes the other developer to a new solution.
+ 
+ 4. Social skills: Pair programming is great for improving social skills. When working with someone who has a different coding style, communication is key. This can become more difficult when two programmers have different personalities.
+
+ 5. Job interview readiness: A common step in many interview processes involves pair programming between a current employee and an applicant, either in person or through a shared screen. They will carry out exercises together, such as code challenges, building a project or feature, or debugging an existing code base
+ 
+ 6. Work environment readiness: Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a products
+ 
+ 
+
+
+ 
 
  
