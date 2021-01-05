@@ -86,7 +86,7 @@ Example:
 * **Controlling the Position of Elements**
 ---
 
-> ## 3. Functions, Methods, and Objects: CSS has the following positioning schemes that allow you to control the layout of a page:
+* **CSS has the following positioning schemes that allow you to control the layout of a page:**
    
    1. Normal flow: Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one, this is the default behavior.
    
@@ -537,5 +537,21 @@ Example:
 
 
   ---
+  
+> ## 3. Functions, Methods, and Objects:
+  
+1. Functions: Functions consist of a In  series of statements that have been grouped together because they perform a specific task. 
 
->## 4. Pair Programming
+2. Method: is the same as function, except methods are created inside (and are part of) an object.
+
+3. Objects: programmers use objects a set of objects that act to create models of the like a toolkit for creating world using data, and that interactive web pages. objects are made up of This section introduces a properties and methods. you to a number of built-in In this section, you learn objects, which you will how to create your own then see used throughout
+
+![Functions](https://miro.medium.com/max/852/1*DGzVYGrUe9yY46sGkuSlyg.png)
+
+ ---
+ 
+> ## 4. Pair Programming
+
+* **Pair programming** is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
+
+ 
