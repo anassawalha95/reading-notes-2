@@ -45,4 +45,14 @@
    4. Decisions & Loops "Switch Statements"
 
 
+## Class 04  *Jan 06 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2004)
+
+   1. Links 
+ 
+   2. Layout 
+
+   3. Functions, Methods, and Objects
+
+   4. Pair Programming
+
 
