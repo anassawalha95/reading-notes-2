@@ -152,4 +152,63 @@ Example:
    
 ---
 
-> ## 3. Text
+> ## 3. Text :
+
+![Fonts(https://www.howtogeek.com/thumbcache/2/200/f6abb731c9c0a66c41036f15654b625e/wp-content/uploads/2015/01/BrowserFont-0.jpg)
+
+
+* **Fonts:** font type is one of the main charstaristics in any webpage; in CSS we have different properties for fonts:
+
+| Attribute    | value                                                                                                            | Details                                            |
+|--------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| font-family  | serif, monospace, cursive, fantasy, caption, icon, menu, message-box, small-caption, status-bar, and "string"    | definies the font that is applied to the element.  |
+| font-stretch | normal, ultra-condensed, extra-condensed, condensed, semi-condensed, semi-expanded, expanded, and extra-expanded | this property sets the font width                  |
+| font-style   | normal, italic, oblique, inherit                                                                                 | makes the text appear italicised or oblique.       |
+| font-variant | normal, small-caps                                                                                               | changes target text to small caps.                 |
+| font-weight  | normal, bold, bolder, lighter, 100-900                                                                           | sets the weight or the thickness of the font.      |
+| font-size    | xx-small, x-small, small, medium, large, x-large, xx-large, smaller, larger, percentage                          | sets the height of the font.                       |
+| line-height  | normal, number (font-size multiplier), percentage                                                                | defines the amount of space above and below inline |
+
+
+* **letter-spacing & word-spacing:** Kerning is the term typographers use for the space between each letter. Also the gap between words called words spacing.
+
+**CSS Properties for letter-spacing & word-spacing:**
+
+examples
+
+   **1. letter-spacing**: `letter-spacing: 0.2em;`
+
+   **2. word-spacing:**   `word-spacing: 1em;`
+   
+   
+* **Alignment & vertical-align:**
+
+**CSS Properties for alignment & vertical alignment:**
+
+examples:
+
+   **1. alignment**: `text-align: left;`
+
+   **2. vertical-align:**   `vertical-align: text-top;`
+   
+* **Indenting Text:** allows you to indent the first line of text within an element. he amount you want the line indented by can be specified in a number of ways but is usually given in pixels or ems.
+
+example:
+
+   **text-indent:** `text-indent: 20px;`
+  
+* **Drop Shadow:** It is used to create a drop shadow, which is a dark version of the word just behind it and slightly offset. It can also be usedto create an embossed effect by adding a shadow that is slightly lighter than the text. 
+
+example:
+
+   **text-shadow:** `text-shadow: 1px 1px 0px #000000;`
+
+* **First Letter or Line:** You can specify different values for the first letter or first line of text inside an element using  :first-letter and :first-line.
+
+examples:
+
+   **1. :first-letter** `p.intro:first-letter {font-size: 200%;}`
+   
+   **2. :first-line** `p.intro:first-line {font-weight: bold;}`
+
+
