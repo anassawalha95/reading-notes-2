@@ -12,7 +12,7 @@ __3. Text__
 
 > ## 1. Images
 
-### * **Images are very engaging especially in well designed websites, consider the following tips for the best practices on adding and image:**
+ * **Images are very engaging especially in well designed websites, consider the following tips for the best practices on adding and image:**
 
     1. relevant
     
@@ -24,7 +24,9 @@ __3. Text__
     
     5.Fit the color palette
 
-### * **Adding an Image:** use the `<img src="<url>" />` self closing tag to add an image to your website.
+### * **Adding an Image:**
+
+**use the `<img src="<url>" />` self closing tag to add an image to your website.**
 
 Example:  
 
@@ -37,7 +39,7 @@ Example:
  
  
  
- ### * **Image Attributes:**
+ ###  **Image Attributes:**
  
 | Attribute   | value                     | Details                                                       |
 |-------------|---------------------------|---------------------------------------------------------------|
@@ -49,7 +51,7 @@ Example:
 | height      | pixels                    | Specifies the height of an image                              |
 
 
- ### * **Image file Types:**
+ ### **Image file Types:**
 
 #### 1. **Image file formats:** are standardized means of organizing and storing digital images. An image file format may store data in an uncompressed format, a compressed format (which may be lossless or lossy), or a vector format
 
