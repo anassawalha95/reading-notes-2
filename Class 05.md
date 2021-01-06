@@ -14,8 +14,8 @@ __3. Text__
 
 ---
 
-> ## 1. Color
+> ## 2. Color
 
 ---
 
-> ## 1. Text
+> ## 3. Text
