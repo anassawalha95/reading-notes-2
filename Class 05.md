@@ -22,9 +22,9 @@ __3. Text__
     
     4. Be instantly recognisable
     
-    5.Fit the color palette
+    5. Fit the color palette
 
-### * **Adding an Image:**
+###  **Adding an Image:**
 
 **use the `<img src="<url>" />` self closing tag to add an image to your website.**
 
@@ -35,11 +35,11 @@ Example:
  
  ![img](https://www.miltonmarketing.com/wp-content/uploads/2018/03/mmhtmlimgtag424243image-tag-example.jpg)
  
- 
- 
- 
+
  
  ###  **Image Attributes:**
+ 
+ ----
  
 | Attribute   | value                     | Details                                                       |
 |-------------|---------------------------|---------------------------------------------------------------|
@@ -52,6 +52,8 @@ Example:
 
 
  ### **Image file Types:**
+ 
+ ---
 
 #### 1. **Image file formats:** are standardized means of organizing and storing digital images. An image file format may store data in an uncompressed format, a compressed format (which may be lossless or lossy), or a vector format
 
@@ -62,11 +64,17 @@ Example:
 #### 3. **Tools to Edit & Save Images:** Below some of the best tools to edit images
 
   1. Skylum Luminar. 
+  
   2. Adobe Photoshop. 
+  
   3. DxO PhotoLab 4. 
+  
   4. ON1 Photo RAW. 
+  
   5. Corel PaintShop Pro. 
+  
   6. ACDSee Photo Studio Ultimate. 
+  
   7. GIMP.
 
 
