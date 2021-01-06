@@ -43,7 +43,8 @@
    3. Basic JavaScript Instructions
 
    4. Decisions & Loops "Switch Statements"
-
+   
+---
 
 ## Class 04  *Jan 06 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2004)
 
@@ -54,5 +55,18 @@
    3. Functions, Methods, and Objects
 
    4. Pair Programming
+   
+---
+
+
+## Class 04  *Jan 07 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2005)
+
+   1. Images 
+ 
+   2. Color 
+
+   3. Text
+
+
 
 
