@@ -26,6 +26,8 @@ __3. Text__
 
 ###  **Adding an Image:**
 
+---
+
 **use the `<img src="<url>" />` self closing tag to add an image to your website.**
 
 Example:  
