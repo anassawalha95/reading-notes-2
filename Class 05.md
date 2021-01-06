@@ -154,7 +154,7 @@ Example:
 
 > ## 3. Text :
 
-![Fonts(https://www.howtogeek.com/thumbcache/2/200/f6abb731c9c0a66c41036f15654b625e/wp-content/uploads/2015/01/BrowserFont-0.jpg)
+![Fonts](https://www.howtogeek.com/thumbcache/2/200/f6abb731c9c0a66c41036f15654b625e/wp-content/uploads/2015/01/BrowserFont-0.jpg)
 
 
 * **Fonts:** font type is one of the main charstaristics in any webpage; in CSS we have different properties for fonts:
