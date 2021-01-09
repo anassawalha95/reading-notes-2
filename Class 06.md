@@ -68,9 +68,9 @@ Example:
 * **Application Programming Interface (API):** Is another name for (Dom), User interfaces let humans interact with programs; APls let programs (and scripts) talk to each other. The DOM states what your script can "ask the browser about the current page, and how to tell the browser to update what is being shown to the user.
 
 
-![API](https://qatestlab.com/assets/Uploads/API-Application-Programming-Interface)
+![API](https://www.bbvaapimarket.com/wp-content/uploads/2016/06/bbva-open4u-que-hace-una-api-por-mi-negocio.png)
 
-[API video](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png)
+##### [API video Explanation](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png)
 
 ----
 
