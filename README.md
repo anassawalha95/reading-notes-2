@@ -59,7 +59,7 @@
 ---
 
 
-## Class 04  *Jan 07 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2005)
+## Class 05  *Jan 07 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2005)
 
    1. Images 
  
@@ -68,5 +68,11 @@
    3. Text
 
 
+---
 
+## Class 06  *Jan 10 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2006)
+
+   1. Object Literals
+    
+   2. Document Object Model
 
