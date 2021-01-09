@@ -120,18 +120,18 @@ Example:
 
 **Examples:**
 
-**Creating an Element **
+**Creating an Element**
 
 ![Dom Creating and Element](https://codebrainer.azureedge.net/images/createElement_js_06.png)
 
 
-**Updating an Element **
+**Updating an Element**
 
 ![Dom Updating and Element](https://blog.knoldus.com/wp-content/uploads/2018/11/html.png)
 
 
 
-**Removing an Element **
+**Removing an Element**
 
 ![Dom Removing and Element](https://codebrainer.azureedge.net/images/createElement_js_09.png)
 
@@ -235,7 +235,7 @@ both offer tools for doing this:
 
 **Notes:**
   
- ** You can still use the innerHTML property and jQuery `.html()` method to add HTML to the DOM, but you must make sure that:
+ * You can still use the innerHTML property and jQuery `.html()` method to add HTML to the DOM, but you must make sure that:
       
    1. You control all of the markup being generated (do not allow user content that could contain markup).
        
@@ -243,3 +243,6 @@ both offer tools for doing this:
    
    
 
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes-2/Class%2006)
+
+GitHub Repo: [View](https://github.com/anassawalha95/reading-notes-2)
