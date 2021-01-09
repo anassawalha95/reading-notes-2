@@ -70,5 +70,5 @@ Example:
 
 ![API](https://qatestlab.com/assets/Uploads/API-Application-Programming-Interface.jpg)
 
-[![API video ](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png =250x100)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+[![API video](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png = 250x100)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 
