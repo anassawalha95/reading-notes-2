@@ -68,7 +68,26 @@ Example:
 * **Application Programming Interface (API):** Is another name for (Dom), User interfaces let humans interact with programs; APls let programs (and scripts) talk to each other. The DOM states what your script can "ask the browser about the current page, and how to tell the browser to update what is being shown to the user.
 
 
-![API](https://qatestlab.com/assets/Uploads/API-Application-Programming-Interface.jpg=250x100)
+![API](https://qatestlab.com/assets/Uploads/API-Application-Programming-Interface.)
 
-[![API video](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png =250x100)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+[API video](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png)
+
+----
+
+#### **Working With The DOM Tree**
+
+* **Access The Elements:**
+
+   1. Select an individual element node use
+       
+       1. getElementByld(): Uses the value of an element's id attribute
+       
+       2. querySe1ector(): Uses a CSS selector, and returns the first matching element.
+
+
+
+
+
+
+
 
