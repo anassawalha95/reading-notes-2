@@ -11,10 +11,43 @@
 
 > ## 1. Object Literals
 
-![js Object]()
+![js Object](https://javascript.info/article/object/object-user.svg)
+
+### **What is the Object?**
+
+**Objects:** group together a set of variables and functions to create a model
+of a something you would recognize from the real world.
+
+**Objects Properties:** is the variables inside the object body. If a function is part of an object, it is called a method.
+Methods represent tasks that are associated with the object.
+
+![js Object Properties](https://i.pinimg.com/originals/35/b2/42/35b2423677beefbb58f338e39eb853a7.jpg)
 
 
 
+**Objects Methods:** If a function is part of an object, it is called a method.Methods represent tasks that are associated with the object.
+
+![js Object Properties and methods](https://www.researchgate.net/profile/Henrique_Gaspar/publication/325361495/figure/fig1/AS:630136558858241@1527247671438/A-ship-as-a-JS-object-with-properties-eg-name-length-and-methods-eg-sail-idle.png)
+
+----
+
+### **Accessing an Object and Dot Notation:**
+
+* **To accesse the properties of an object use object name then dot notation then add the variable name or the method name. Also you can use squre brackts**
+
+![js Object access with dot notation and square brackts](https://dmitripavlutin.com/static/50a87420915de18f26da616865fe9825/05127/access-object-properties-2.png)
+
+
+
+### **Creating objects:**
+
+**You can create objects by defining a variable then opening a curly braces then adding a key value pairs.**
+
+![Creating objects](https://d2tlksottdg9m1.cloudfront.net/uploads/2019/02/basic-JSON.jpg)
+
+Example:
+
+![Creating objects Example](https://image.slidesharecdn.com/javascript-110725163050-phpapp01/95/javascript-literacy-2-728.jpg?cb=1311612096)
 
 ---
 
@@ -22,5 +55,5 @@
 > ## 2. Document Object Model
 
 
-![js Object]()
+![Document Object Model]()
 
