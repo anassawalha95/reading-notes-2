@@ -70,7 +70,7 @@ Example:
 
 ![API](https://www.bbvaapimarket.com/wp-content/uploads/2016/06/bbva-open4u-que-hace-una-api-por-mi-negocio.png)
 
-##### [API video Explanation](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png)
+[API video Explanation](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png)
 
 ----
 
