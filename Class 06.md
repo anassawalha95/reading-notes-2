@@ -117,8 +117,28 @@ Example:
       
       6. hasAttribute(), getAttribute(), setAttribute(), removeAttribute(): The first checks if an attribute exists. The second gets its value. The third updates the value. The fourth removes an attribute.
       
-      
 
+**Examples:**
+
+**Creating an Element **
+
+![Dom Creating and Element](https://codebrainer.azureedge.net/images/createElement_js_06.png)
+
+
+**Updating an Element **
+
+![Dom Updating and Element](https://blog.knoldus.com/wp-content/uploads/2018/11/html.png)
+
+
+
+**Removing an Element **
+
+![Dom Removing and Element](https://codebrainer.azureedge.net/images/createElement_js_09.png)
+
+
+      
+      
+* **Cros**
 
 
 
