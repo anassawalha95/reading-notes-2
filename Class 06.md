@@ -80,11 +80,44 @@ Example:
 
    1. Select an individual element node use
        
-       1. getElementByld(): Uses the value of an element's id attribute
+        1. getElementByld(): Uses the value of an element's id attribute
        
-       2. querySe1ector(): Uses a CSS selector, and returns the first matching element.
+        2. querySelector(): Uses a CSS selector, and returns the first matching element.
+       
+   2. Select Multiple Elements (Node list):
+   
+       1. getElementsByClassName(): Selects all elements that have a specific value for their class attribute.
+       
+       2. getElementsByTagName(): Selects all elements that have the specified tag name .
+       
+       3. querySelectorAll(): Uses a CSS selector to select all matching elements.
+   
+   3. Traversing Between Element Nodes: 
+ 
+       1. parentNode: Selects the parent of the current element node (which will return just one element). 
+       
+       2. previous Sibling / nextSibling: Selects the previous or next sibling from the DOM tree. 
+       
+       3. firstChild / lastChild: Select the first or last child of the current element.
+   
 
+* **Work With Elements:**
 
+  1. Access/ Update Text Nodes
+  
+      1. nodeValue: This property lets you access or update contents of a text node.
+      
+      2. innerHTML: The text node does not include text inside any child elements. This property allows access to child elements and text content
+      
+      3. textContent: Same as innerHtml
+      
+      4. create Element(), createTextNode(), appendChild() / removeChild(): Several methods let you create new nodes, add nodes to a tree, and remove nodes from a tree. This is called DOM manipulation.
+      
+      5. className /id: Lets you get or update the value of the class and id attributes
+      
+      6. hasAttribute(), getAttribute(), setAttribute(), removeAttribute(): The first checks if an attribute exists. The second gets its value. The third updates the value. The fourth removes an attribute.
+      
+      
 
 
 
