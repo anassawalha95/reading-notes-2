@@ -23,7 +23,7 @@ Methods represent tasks that are associated with the object.
 
 ![js Object Properties](https://i.pinimg.com/originals/35/b2/42/35b2423677beefbb58f338e39eb853a7.jpg)
 
-
+----
 
 **Objects Methods:** If a function is part of an object, it is called a method.Methods represent tasks that are associated with the object.
 
@@ -38,6 +38,7 @@ Methods represent tasks that are associated with the object.
 ![js Object access with dot notation and square brackts](https://dmitripavlutin.com/static/50a87420915de18f26da616865fe9825/05127/access-object-properties-2.png)
 
 
+----
 
 ### **Creating objects:**
 
@@ -55,5 +56,19 @@ Example:
 > ## 2. Document Object Model
 
 
-![Document Object Model]()
+![Document Object Model](https://pbs.twimg.com/media/Dfgm4VPVAAEkcK5.jpg)
+
+
+### **What is the Document Object Model?** 
+
+* **The Document Object Model: (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.**
+
+* **The DOM** specifies the way in which the browser should structure this model using a DOM tree.
+
+* **Application Programming Interface (API):** Is another name for (Dom), User interfaces let humans interact with programs; APls let programs (and scripts) talk to each other. The DOM states what your script can "ask the browser about the current page, and how to tell the browser to update what is being shown to the user.
+
+
+![API](https://qatestlab.com/assets/Uploads/API-Application-Programming-Interface.jpg)
+
+[![API video](https://miro.medium.com/max/2560/1*v5HlKG-TIvm7BU5S34F1rw.png)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 
