@@ -87,7 +87,18 @@
    
 ---
 
-> ## 3. Text
+> ## 3. Functions, Methods, and Objects
+
+#### **Creating an Object Consructor Notation**
+
+**The `new` Keyword and the object `constructor` create a blank object.**
+
+![new and constructor](https://image.slidesharecdn.com/introductiontooojs-140127004826-phpapp01/95/introduction-to-object-oriented-javascript-6-638.jpg?cb=1390783865)
+
+
+#### **Updating an Object**
+
+* **To update the value of properties, use dot notation or square brackets. They work on objects created using literal or constructor notation. To delete a property use the delete keyword**
 
 
 
