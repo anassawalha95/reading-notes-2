@@ -19,7 +19,7 @@
 
 * **Domain model:** is a structured visual representation of interconnected concepts or real-world objects that incorporates vocabulary, key concepts, behavior, and relationships of all of its entities.
 
-**A domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.**
+* **A domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.**
 
 ![Domain Modeling](https://sparxsystems.com/enterprise_architect_user_guide/14.0/images/domain-model-5600.png)
 
@@ -176,7 +176,7 @@
 
 * **Browsers come with a set of built-in objects that represent things like the browser window and the current web page shown in that window. These built-in objects act like a toolkit for creating interactive web pages.**
 
-**There are Three Groups of Built in Objects**
+* **There are Three Groups of Built in Objects**
 
 1. **Brower Object Model (BOM):** Creates a model of the browser tab or window 
 
