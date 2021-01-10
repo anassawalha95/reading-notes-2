@@ -27,8 +27,68 @@
 
 > ## 2. Tables
 
+#### **What is Tables?**
+
+* **Tables:** A table represents information in a grid format.
+
+![Tables](https://mdn.mozillademos.org/files/14587/swimming-timetable.png)
+
+----
+
+#### **Table Structure**
+
+* **Table Tags:**
+
+   1. `<table>`: The `<table>` element is used to create a table. The contents of the table are written out row by row.
+   
+   2. `<th>`: The `<th>` element is used just like the `<td>` element but its purpose is to represent the heading for either a column or  a row.
+   
+   3. `<tr>`: You indicate the start of each row using the opening `<tr>` tag.
+   
+   4. `<td>`: Each cell of a table is represented using a `<td>` element. (The td stands for table data.)
+   
+   5. `<thead>`: The headings of the table should sit inside the `<thead>` element. 
+   
+   6. `<tbody>`: The body should sit inside the `<tbody>` element.
+
+   7. `<tfoot>`: The footer belongs inside the `<tfoot>` element.
 
 
+   **Example**
+   
+         <table>
+         <thead>
+            <tr>
+               <th></th>
+               <th scope="col">Home starter hosting</th>
+               <th scope="col">Premium business hosting</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <th scope="row">Disk space</th>
+                  <td>250mb</td>
+                  <td>1gb</td>
+               </tr>
+               <tr>
+                  <th scope="row">Bandwidth</th>
+                  <td>5gb per month</td>
+                  <td>50gb per month</td>
+               </tr>
+         </tbody>
+         <tfoot>
+            <tr>
+               <td></td>
+               <td colspan="2">Sign up now and save 10%!</td>
+            </tr>
+         </tfoot>
+         </table>
+   
+   
 ---
 
 > ## 3. Text
+
+
+
+
