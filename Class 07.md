@@ -178,14 +178,24 @@
 
 **There are Three Groups of Built in Objects**
 
-1. **Brower Object Model:** Creates a model of the browser tab or window 
+1. **Brower Object Model (BOM):** Creates a model of the browser tab or window 
 
 
 ![Brower Object Model](https://image.slidesharecdn.com/013browserobjectmodel-190503092234/95/javascript-chapter-13-browser-object-modelbom-5-638.jpg?cb=1556875428)
 
 
-2. **Document Object Model:** 
+2. **Document Object Model (DOM):** Create model of the current web page.
+
+![Document Object Model](https://www.pierre-giraud.com/wp-content/uploads/2019/11/javascript-representation-dom.jpg)
+
+
+3. **Global Javascript Objects:** It doesn't form a single model. They are a group of individual objects that relate to different parts of the JavaScript language
+
+
+![Global Javascript Objects](https://res.cloudinary.com/practicaldev/image/fetch/s--jRLu_Z5j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/q6pyi9z2qpt9iai9foqx.png)
+
+
+![Recap DOM,BOM, and Global Javascript Objects ](https://javascript.info/article/browser-environment/windowObjects.svg)
 
 
 
-3. **Global Javascript Objects:** 
