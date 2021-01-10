@@ -34,6 +34,8 @@
     
 ---
 
+
+
 ## Class 03  *Jan 05 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2003)
 
    1. Lists 
@@ -75,4 +77,14 @@
    1. Object Literals
     
    2. Document Object Model
+   
+---
+
+## Class 07  *Jan 11 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2007)
+
+   1. Domain Modeling [Referance](https://github.com/codefellows/domain_modeling#domain-modeling)
+    
+   2. Tables
+    
+   3. Functions, Methods, and Objects
 
