@@ -101,5 +101,91 @@
 * **To update the value of properties, use dot notation or square brackets. They work on objects created using literal or constructor notation. To delete a property use the delete keyword**
 
 
+![update & Delete object Properties](https://flaviocopes.com/how-to-remove-object-property-javascript/delete-object-property.png)
+
+----
 
 
+#### **Creating Many Objects: Constructor Notation**
+
+* **Object constructors can use a function as template for creating objects**
+
+![Creating Many Objects](https://miro.medium.com/max/1964/1*FV5pGUFrVhshmxQI9WdsuA.png)
+
+----
+
+
+#### **`this` Its A Keyword**
+
+* **`this` Keyword:** `this` is commonly used inside functions and objects where the function is declared alters what `this` mean. It always refers to one object, usually the object in which the function operates 
+
+![this keyword](https://www.tutorialsteacher.com/Content/images/oo-js/this-global.png)
+
+
+----
+
+
+#### **Arrays Are Objects**
+
+* **Arrays:** are actually a special type of object. They hold a related set of key/value pairs (like all objects), but the key for each value is its index number.
+
+**Object**
+
+| Property | Value  |
+|----------|--------|
+| Mercedes | $20000 |
+| BMW      | $35000 |
+| kie      | $100   |
+
+**Array**
+
+| Index | Value  |
+|-------|--------|
+|   0   | $20000 |
+|   1   | $35000 |
+|   2   |  $100  |
+
+----
+
+#### **Arrays of Objects & Objects in Arrays**
+
+* **You can combine arrays and objects to create complex data structures: Arrays can store a series of objects (and remember their order). Objects can also hold arrays (as values of their properties)**
+
+
+**Arrays in an Object**
+
+| Index    | Value                           |
+|----------|---------------------------------|
+| Mercedes | `Prices[$20000,$32500,$15350]`  |
+|    BMW   | `Prices[$140000,$30500,$10000]` |
+|    kie   |     `Prices[$100,$50,$0.25]`    |
+
+
+**Objects in an Array**
+
+
+| Index | Value                     |
+|-------|---------------------------|
+|   0   | `{$20000,$32500,$15350}`  |
+|   1   | `{$140000,$30500,$10000}` |
+|   2   |     `{$100,$50,$0.25}`    |
+
+----
+
+#### **Built in Objects**
+
+* **Browsers come with a set of built-in objects that represent things like the browser window and the current web page shown in that window. These built-in objects act like a toolkit for creating interactive web pages.**
+
+**There are Three Groups of Built in Objects**
+
+1. **Brower Object Model:** Creates a model of the browser tab or window 
+
+
+![Brower Object Model](https://image.slidesharecdn.com/013browserobjectmodel-190503092234/95/javascript-chapter-13-browser-object-modelbom-5-638.jpg?cb=1556875428)
+
+
+2. **Document Object Model:** 
+
+
+
+3. **Global Javascript Objects:** 
