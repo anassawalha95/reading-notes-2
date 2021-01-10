@@ -89,14 +89,14 @@
 
 > ## 3. Functions, Methods, and Objects
 
-#### **Creating an Object Consructor Notation**
+#### * **Creating an Object Consructor Notation**
 
-**The `new` Keyword and the object `constructor` create a blank object.**
+* **The `new` Keyword and the object `constructor` create a blank object.**
 
 ![new and constructor](https://image.slidesharecdn.com/introductiontooojs-140127004826-phpapp01/95/introduction-to-object-oriented-javascript-6-638.jpg?cb=1390783865)
 
 
-#### **Updating an Object**
+#### * **Updating an Object**
 
 * **To update the value of properties, use dot notation or square brackets. They work on objects created using literal or constructor notation. To delete a property use the delete keyword**
 
@@ -106,7 +106,7 @@
 ----
 
 
-#### **Creating Many Objects: Constructor Notation**
+#### * **Creating Many Objects: Constructor Notation**
 
 * **Object constructors can use a function as template for creating objects**
 
@@ -115,7 +115,7 @@
 ----
 
 
-#### **`this` Its A Keyword**
+#### * **`this` Its A Keyword**
 
 * **`this` Keyword:** `this` is commonly used inside functions and objects where the function is declared alters what `this` mean. It always refers to one object, usually the object in which the function operates 
 
@@ -125,7 +125,7 @@
 ----
 
 
-#### **Arrays Are Objects**
+#### * **Arrays Are Objects**
 
 * **Arrays:** are actually a special type of object. They hold a related set of key/value pairs (like all objects), but the key for each value is its index number.
 
@@ -147,12 +147,12 @@
 
 ----
 
-#### **Arrays of Objects & Objects in Arrays**
+#### * **Arrays of Objects & Objects in Arrays**
 
 * **You can combine arrays and objects to create complex data structures: Arrays can store a series of objects (and remember their order). Objects can also hold arrays (as values of their properties)**
 
 
-**Arrays in an Object**
+**Arrays in an Object:**
 
 | Index    | Value                           |
 |----------|---------------------------------|
@@ -161,7 +161,7 @@
 |    kie   |     `Prices[$100,$50,$0.25]`    |
 
 
-**Objects in an Array**
+**Objects in an Array:**
 
 
 | Index | Value                     |
@@ -172,7 +172,7 @@
 
 ----
 
-#### **Built in Objects**
+#### * **Built in Objects**
 
 * **Browsers come with a set of built-in objects that represent things like the browser window and the current web page shown in that window. These built-in objects act like a toolkit for creating interactive web pages.**
 
@@ -200,5 +200,6 @@
 
 
 GitHub live: [View](https://anassawalha95.github.io/reading-notes-2/Class%2007)
+
 GitHub Repo: [View](https://github.com/anassawalha95/reading-notes-2/)
 
