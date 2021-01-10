@@ -199,3 +199,6 @@
 
 
 
+GitHub live: [View](https://anassawalha95.github.io/reading-notes-2/Class%2007)
+GitHub Repo: [View](https://github.com/anassawalha95/reading-notes-2/)
+
