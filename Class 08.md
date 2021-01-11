@@ -180,7 +180,7 @@ CSS Layout Quiz
 
 ----
 
-16. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the right of it.
+16. Select the most appropriate CSS declaration to position a `<div>` element so that other elements that follow after it may occupy space to the right of it.
 
         1. float: left;
 
@@ -192,7 +192,7 @@ CSS Layout Quiz
 
 ----
 
-17. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the left of it.
+17. Select the most appropriate CSS declaration to position a `<div>` element so that other elements that follow after it may occupy space to the left of it.
 
         1. position: right;
 
