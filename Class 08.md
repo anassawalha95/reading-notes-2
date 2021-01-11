@@ -8,12 +8,12 @@
    
 ---
 
-> ## CSS Layout Quiz Review: [Referance]()
+> ## CSS Layout Quiz Review: [Referance](https://anassawalha95.github.io/reading-notes-2/Class%2004)
 
 CSS Layout Quiz
 
 
-a. Which CSS property is used to set the spacing outside of elements?
+1. Which CSS property is used to set the spacing outside of elements?
 
         1. spacer
 
@@ -24,7 +24,7 @@ a. Which CSS property is used to set the spacing outside of elements?
         4. border
     
     
-b. Which CSS property is used to set the spacing inside of elements?
+2. Which CSS property is used to set the spacing inside of elements?
 
         1. spacer
 
@@ -35,7 +35,7 @@ b. Which CSS property is used to set the spacing inside of elements?
         4. border
 
 
-c. Which CSS property is used to create a line (stroke) on the outside edge of elements?
+3. Which CSS property is used to create a line (stroke) on the outside edge of elements?
 
         1. spacer
 
@@ -46,7 +46,7 @@ c. Which CSS property is used to create a line (stroke) on the outside edge of e
         4. border
 
 
-d. Select the CSS shorthand declaration that accomplishes the result of 5px of padding on all sides of an element.
+4. Select the CSS shorthand declaration that accomplishes the result of 5px of padding on all sides of an element.
 
         1. padding: 5px;
 
@@ -57,7 +57,7 @@ d. Select the CSS shorthand declaration that accomplishes the result of 5px of p
         4. padding: 5px all;
 
 
-e. Select the CSS shorthand declaration that accomplishes the result of 10px of padding on the top and bottom and 20px on the left and right of an element.
+5. Select the CSS shorthand declaration that accomplishes the result of 10px of padding on the top and bottom and 20px on the left and right of an element.
 
         1. padding-top-and-bottom: 20px; padding-left-and-right: 20px;
 
@@ -67,7 +67,7 @@ e. Select the CSS shorthand declaration that accomplishes the result of 10px of 
 
         4. padding: 20px 10px;
 
-f. Select the CSS shorthand declaration that accomplishes the result of 35px of padding on the top, 5px on both sides (left & right), and 10px on the bottom.
+6. Select the CSS shorthand declaration that accomplishes the result of 35px of padding on the top, 5px on both sides (left & right), and 10px on the bottom.
 
         1. padding-top: 35px; padding-left, padding-right: 5px; padding-bottom: 10px;
 
@@ -78,7 +78,7 @@ f. Select the CSS shorthand declaration that accomplishes the result of 35px of 
         4. padding: 35px 5px 10px;
 
 
-g. Select the CSS shorthand declaration that accomplishes the result of 10px of padding on top, 20px on the right, 25px on the bottom, and 0px on the left.
+7. Select the CSS shorthand declaration that accomplishes the result of 10px of padding on top, 20px on the right, 25px on the bottom, and 0px on the left.
 
         1. padding-top: 10px; padding-right: 25px; padding-bottom: 25px; padding-left: 0;
 
@@ -88,7 +88,7 @@ g. Select the CSS shorthand declaration that accomplishes the result of 10px of 
 
         4. padding: 10px top 20px right 25px bottom 0 left;
 
-h. Select the CSS declaration that will center an element (using spacing outside of the element).
+8. Select the CSS declaration that will center an element (using spacing outside of the element).
 
         1. margin: auto 0;
 
@@ -98,32 +98,32 @@ h. Select the CSS declaration that will center an element (using spacing outside
 
         4. margin: center;
     
-i. If an element set to display: block; has a specified height property, an overflow property set to auto, and content inside that is taller than the element's specified height, a scrollbar will appear.
+9. If an element set to display: block; has a specified height property, an overflow property set to auto, and content inside that is taller than the element's specified height, a scrollbar will appear.
 
         1. TRUE
 
         2. FALSE
     
-j. If an element is set to display: block; and has no width specified (or width: auto;) it will collapse only as wide as the content inside of it.
+10. If an element is set to display: block; and has no width specified (or width: auto;) it will collapse only as wide as the content inside of it.
 
         1. TRUE
 
         2. FALSE
 
 
-k. If an element is set to display: inline;, it will not apply top or bottom margins or any width values given to it.
-
-        1. TRUE
-
-        2. FALSE
-    
-l. The margins of two statically positioned elements will overlap. (E.g., <div id="one"> has a bottom margin of 10px and <div id="two"> has a top margin of 20px, but the total margin between them is only 20px.)
+11. If an element is set to display: inline;, it will not apply top or bottom margins or any width values given to it.
 
         1. TRUE
 
         2. FALSE
     
-m. If an element is set to display: block;, which CSS declaration will allow the element to scale to a width of 100%?
+12. The margins of two statically positioned elements will overlap. (E.g., <div id="one"> has a bottom margin of 10px and <div id="two"> has a top margin of 20px, but the total margin between them is only 20px.)
+
+        1. TRUE
+
+        2. FALSE
+    
+13. If an element is set to display: block;, which CSS declaration will allow the element to scale to a width of 100%?
 
         1. width: auto;
 
@@ -133,7 +133,7 @@ m. If an element is set to display: block;, which CSS declaration will allow the
 
         4. All of the above.
     
-n. If an element is set to display: block;, which CSS declaration(s) will set its minimum width to 600px and its maximum to 1000px?
+14. If an element is set to display: block;, which CSS declaration(s) will set its minimum width to 600px and its maximum to 1000px?
 
         1. width: 1000px; minimum-width: 600px;
 
@@ -144,7 +144,7 @@ n. If an element is set to display: block;, which CSS declaration(s) will set it
         4. width: 600px 1000px;
 
 
-o. Which CSS property has the ability to change the way elements display (inline versus block)?
+15. Which CSS property has the ability to change the way elements display (inline versus block)?
 
         1. visibility
 
@@ -154,7 +154,7 @@ o. Which CSS property has the ability to change the way elements display (inline
 
         4. Both A and B.
 
-p. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the right of it.
+16. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the right of it.
 
         1. float: left;
 
@@ -165,7 +165,7 @@ p. Select the most appropriate CSS declaration to position a <div> element so th
         4. position: right;
 
 
-q. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the left of it.
+17. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the left of it.
 
         1. position: right;
 
@@ -175,19 +175,19 @@ q. Select the most appropriate CSS declaration to position a <div> element so th
 
         4. float: right;
 
-s. When the CSS declaration clear: both; is applied to an element, it will appear below any floating elements above.
+18. When the CSS declaration clear: both; is applied to an element, it will appear below any floating elements above.
 
         1. TRUE
 
         2. FALSE
 
-t. You can apply a specially written class of clearfix to parents with floating children to prevent the parents from collapsing.
+19. You can apply a specially written class of clearfix to parents with floating children to prevent the parents from collapsing.
 
         1. TRUE
 
         2. FALSE
 
-u. Select the most appropriate CSS declaration(s) to set an element to absolute positioning in the top right corner.
+20. Select the most appropriate CSS declaration(s) to set an element to absolute positioning in the top right corner.
 
         1. position: top right;
 
@@ -197,24 +197,19 @@ u. Select the most appropriate CSS declaration(s) to set an element to absolute 
 
         4.None of the above.
 
-x. Fill in the blank: ________ positioning makes an element appear in the same place relative to the browser window even when scrolling occurs.
-
-        1. absolute
-
-        2. static
-
-        3. fixed
-
-        4. inherent
-
-y. Fill in the blank: Elements with a(n) _________ z-index will appear above other elements.
-
-        1. lower
-
-        2. higher
-
-        3. identical
-
-        4. negative
 
 
+
+Answers:
+
+| question # | Answer # | question # | Answer # | question # | Answer # | question # | Answer # |
+|:----------:|:--------:|:----------:|:--------:|:----------:|:--------:|:----------:|:--------:|
+|      1     |     2    |      6     |     4    |     11     |     1    |     16     |     1    |
+|      2     |     3    |      7     |     2    |     12     |     1    |     17     |     4    |
+|      3     |     4    |      8     |     2    |     13     |     4    |     18     |     1    |
+|      4     |     1    |      9     |     1    |     14     |     2    |     19     |     1    |
+|      5     |     3    |     10     |     2    |     15     |     3    |     20     |     2    |
+        
+        
+        
+   
