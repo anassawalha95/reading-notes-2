@@ -211,5 +211,9 @@ Answers:
 |      5     |     3    |     10     |     2    |     15     |     3    |     20     |     2    |
         
         
-        
+
+GitHub Repo: [View](https://github.com/anassawalha95/reading-notes-2/blob/main/Class%2008.md)
+
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes-2/Class%2008)
+
    
