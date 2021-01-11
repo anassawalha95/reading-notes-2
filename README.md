@@ -87,4 +87,13 @@
    2. Tables
     
    3. Functions, Methods, and Objects
+   
+---
+
+
+## Class 08  *Jan 12 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2008)
+    
+   * Layout
+    
+   
 
