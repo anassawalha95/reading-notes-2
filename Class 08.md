@@ -23,7 +23,8 @@ CSS Layout Quiz
 
         4. border
     
-    
+----
+
 2. Which CSS property is used to set the spacing inside of elements?
 
         1. spacer
@@ -34,6 +35,7 @@ CSS Layout Quiz
 
         4. border
 
+----
 
 3. Which CSS property is used to create a line (stroke) on the outside edge of elements?
 
@@ -45,6 +47,7 @@ CSS Layout Quiz
 
         4. border
 
+----
 
 4. Select the CSS shorthand declaration that accomplishes the result of 5px of padding on all sides of an element.
 
@@ -56,6 +59,7 @@ CSS Layout Quiz
 
         4. padding: 5px all;
 
+----
 
 5. Select the CSS shorthand declaration that accomplishes the result of 10px of padding on the top and bottom and 20px on the left and right of an element.
 
@@ -66,6 +70,7 @@ CSS Layout Quiz
         3. padding: 10px 20px;
 
         4. padding: 20px 10px;
+----
 
 6. Select the CSS shorthand declaration that accomplishes the result of 35px of padding on the top, 5px on both sides (left & right), and 10px on the bottom.
 
@@ -77,6 +82,7 @@ CSS Layout Quiz
 
         4. padding: 35px 5px 10px;
 
+----
 
 7. Select the CSS shorthand declaration that accomplishes the result of 10px of padding on top, 20px on the right, 25px on the bottom, and 0px on the left.
 
@@ -88,6 +94,8 @@ CSS Layout Quiz
 
         4. padding: 10px top 20px right 25px bottom 0 left;
 
+----
+
 8. Select the CSS declaration that will center an element (using spacing outside of the element).
 
         1. margin: auto 0;
@@ -97,18 +105,25 @@ CSS Layout Quiz
         3. margin-all: auto;
 
         4. margin: center;
-    
+ 
+----
+
 9. If an element set to display: block; has a specified height property, an overflow property set to auto, and content inside that is taller than the element's specified height, a scrollbar will appear.
 
         1. TRUE
 
         2. FALSE
-    
+
+----
+
+
 10. If an element is set to display: block; and has no width specified (or width: auto;) it will collapse only as wide as the content inside of it.
 
         1. TRUE
 
         2. FALSE
+
+----
 
 
 11. If an element is set to display: inline;, it will not apply top or bottom margins or any width values given to it.
@@ -116,13 +131,18 @@ CSS Layout Quiz
         1. TRUE
 
         2. FALSE
-    
-12. The margins of two statically positioned elements will overlap. (E.g., <div id="one"> has a bottom margin of 10px and <div id="two"> has a top margin of 20px, but the total margin between them is only 20px.)
+
+----
+
+
+12. The margins of two statically positioned elements will overlap. (E.g., `<div id="one">` has a bottom margin of 10px and`<div id="two">` has a top margin of 20px, but the total margin between them is only 20px.)
 
         1. TRUE
 
-        2. FALSE
-    
+        2. FALSE 
+
+----
+
 13. If an element is set to display: block;, which CSS declaration will allow the element to scale to a width of 100%?
 
         1. width: auto;
@@ -132,7 +152,10 @@ CSS Layout Quiz
         3. (Blank; no width declaration is necessary.)
 
         4. All of the above.
-    
+ 
+----
+
+ 
 14. If an element is set to display: block;, which CSS declaration(s) will set its minimum width to 600px and its maximum to 1000px?
 
         1. width: 1000px; minimum-width: 600px;
@@ -143,6 +166,7 @@ CSS Layout Quiz
 
         4. width: 600px 1000px;
 
+----
 
 15. Which CSS property has the ability to change the way elements display (inline versus block)?
 
@@ -154,6 +178,8 @@ CSS Layout Quiz
 
         4. Both A and B.
 
+----
+
 16. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the right of it.
 
         1. float: left;
@@ -164,6 +190,7 @@ CSS Layout Quiz
 
         4. position: right;
 
+----
 
 17. Select the most appropriate CSS declaration to position a <div> element so that other elements that follow after it may occupy space to the left of it.
 
@@ -175,17 +202,23 @@ CSS Layout Quiz
 
         4. float: right;
 
+----
+
 18. When the CSS declaration clear: both; is applied to an element, it will appear below any floating elements above.
 
         1. TRUE
 
         2. FALSE
 
+----
+
 19. You can apply a specially written class of clearfix to parents with floating children to prevent the parents from collapsing.
 
         1. TRUE
 
         2. FALSE
+
+----
 
 20. Select the most appropriate CSS declaration(s) to set an element to absolute positioning in the top right corner.
 
@@ -197,7 +230,7 @@ CSS Layout Quiz
 
         4.None of the above.
 
-
+----
 
 
 Answers:
