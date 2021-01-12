@@ -94,6 +94,19 @@
 ## Class 08  *Jan 12 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2008)
     
    * Layout
+   
+---
+
+> # Class 09 *Jan 13 2021:* * [view](https://anassawalha95.github.io/reading-notes-2/Class%2009)
+
+
+   1. Forms
     
+   2. Lists, Tables & Forms
+    
+   3. Events
+    
+   
+---
    
 
