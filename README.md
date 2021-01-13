@@ -97,7 +97,7 @@
    
 ---
 
-> # Class 09 *Jan 13 2021:* * [view](https://anassawalha95.github.io/reading-notes-2/Class%2009)
+> # Class 09 *Jan 13 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2009)
 
 
    1. Forms
@@ -110,3 +110,9 @@
 ---
    
 
+> # Class 09 *Jan 14 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2010)
+
+  * Error Handling & Debugging
+   
+---
+   
