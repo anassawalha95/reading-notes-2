@@ -341,7 +341,8 @@
       7. background-image: adds a background image to the box. 
    
    
-   
+![cheatsheet](https://i.pinimg.com/originals/ae/ac/90/aeac9044ca81dcd5edc639e25db278c6.jpg)
+
 Example:
 
       <!DOCTYPE html>
@@ -497,8 +498,32 @@ Example:
 ---
 
 
+> ## 3. Events
+
+#### **What is Evnets? **
+
+* **When you browse the web, your browser registers different types of events. It's the browser's way of saying, "Hey, this  just happened." Your script can then respond to these events.**
+
+#### **JavaScript Event**
+
+ ![Event](https://i.pinimg.com/originals/79/93/f5/7993f58253f6dfd2d356347e6820ac32.jpg)     
 
 
 
+#### **JavaScript Event Listeners**
 
-      
+* **Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers.** 
+
+![Event listeners ](https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg)
+
+  
+Example:
+
+![ Event listeners ex](https://miro.medium.com/max/2784/1*xPmfzRHrKitsqurnA8usOw.png)
+
+#### **Event Flow**
+
+
+![Event flow](https://cdn.javascripttutorial.net/wp-content/uploads/2020/02/JavaScript-DOM-Level-2-Event.png)
+
+
