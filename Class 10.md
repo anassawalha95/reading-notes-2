@@ -169,3 +169,7 @@ of activity:**
     5. Select Developer.
     
     6. Open the JavaScript Console or Developer Tools option and select Console.
+    
+GitHub Repo: [View](https://github.com/anassawalha95/reading-notes-2/blob/main/Class%2010.md)
+
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes-2/Class%2010)
