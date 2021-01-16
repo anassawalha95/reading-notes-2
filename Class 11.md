@@ -279,9 +279,20 @@ about.
       
 ---
 
-> ## 3. History of Flash 
+> ## 3. History of Flash [Referance](https://en.wikipedia.org/wiki/Adobe_Flash#:~:text=The%20precursor%20to%20Flash%20was,computers%20running%20the%20PenPoint%20OS.)
+
+[Flash Playes Logo](https://specials-images.forbesimg.com/imageserve/5f9c6af10985d5a5957cc4d5/960x0.jpg?fit=scale)
+
+In the early 2000s, Flash was widely installed on desktop computers, and was often used to display interactive web pages and online games, and to play video and audio content. In 2005, YouTube was founded by former PayPal employees, and it used Adobe Flash Player as a means to display compressed video content on the web.
+
+Between 2000 and 2010, numerous businesses used Flash-based websites to launch new products, or to create interactive company portals.Notable users include Nike, Hewlett-Packard (more commonly known as HP), Nokia, General Electric, World Wildlife Fund, HBO, Cartoon Network, Disney, and Motorola.After Adobe introduced hardware-accelerated 3D for Flash (Stage3D), Flash websites saw a growth of 3D content for product demonstrations and virtual tours.
+
+In 2007, YouTube offered videos in HTML5 format to support the iPhone and iPad, which did not support Flash Player. After a controversy with Apple, Adobe stopped developing Flash Player for Mobile, focusing its efforts on Adobe AIR applications and HTML5 animation. In 2015, Google introduced Google Swiffy to convert Flash animation to HTML5, a tool Google would use to automatically convert Flash web ads for mobile devices. In 2016, Google discontinued Swiffy and its support.In 2015, YouTube switched to HTML5 technology on all devices; however, it would preserve the Flash-based video player for older web browsers
 
 
+![Death of the crap](https://infosolblog.com/wp-content/uploads/2019/10/flashisdead-660x330.jpg)
+
+---
 
 Github Live: [view](https://anassawalha95.github.io/reading-notes-2/Class%2011)
 
