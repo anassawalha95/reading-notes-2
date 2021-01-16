@@ -16,7 +16,7 @@
 
 ---
 
-* **Controling Images Size in CSS:**
+#### * **Controling Images Size in CSS:**
 
 **You can control the size of an image by:**
 
@@ -41,7 +41,7 @@
 
 ---
 
-* **Aligning images:**
+#### * **Aligning images:**
 
 **You can align an image by :**
 
@@ -64,7 +64,7 @@
 
 ---
 
-* **Centaring images:**
+#### * **Centaring images:**
 
 **By default, images are inline elements. This means that they flow within the surrounding text. In order to center an image use:**
   
@@ -85,7 +85,7 @@
 
 ---
 
-* **Background images**    
+#### * **Background images**    
 
 **You can insert an image in a backgound by :**
 
@@ -98,7 +98,7 @@
   
 ---
 
-* **Repeating Images:**    
+#### * **Repeating Images:**    
 
   1. Repeating Images: it uses `background-repeat` with four different values
   
@@ -123,9 +123,9 @@
     background-attachment: fixed;
 
 
----
+----
 
-* **Background Position:**
+#### * **Background Position:**
 
 **When an image is not being repeated, you can use the  `background-position`  property to specify where in the  browser window the background image should be placed with numaric values or these values :**
 
@@ -159,7 +159,7 @@
 
 ----
 
-* **Images Rollover & Sprites**
+#### * **Images Rollover & Sprites**
 
 **Using CSS, it is possible to create a link or button that changes to a  second style when a user moves  their mouse over it (known as a  rollover) and a third style when they click on it.**
 
@@ -200,7 +200,7 @@
 
 ----
 
-* **CSS Gradients**
+#### * **CSS Gradients**
 
 **CSS3 is going to introduce the ability to specify a gradient for the background of a box. The gradient is created using the background-image property and, at the time of writing, different browsers required a different syntax.**
 
