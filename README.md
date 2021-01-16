@@ -115,4 +115,15 @@
   * Error Handling & Debugging
    
 ---
+
+
+> # Class 11 *Jan 17 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2011)
+
+  1. Images
+  
+  2. Practical Information
+  
+  3. History of Flash 
+
+---
    
