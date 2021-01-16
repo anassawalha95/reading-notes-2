@@ -239,7 +239,44 @@
     
   3. Off-Page Techniques: Getting other sites to link to you is just as important as on-page techniques. Search engines help determine how to rank your site by looking at the number of other sites that link to yours.
   
+----
+
+#### **How to Identify Keywords and Phrases:**
+
+**Determining which keywords to use on your site can be one of the hardest tasks when you start to think about SEO. Here are six steps that will help you identify the right keywords and phrases for your site.**
+
+  1. Brainstorm: List down the words that someone might type into  Google to find your site. Be sure to include the various topics, products or services your site is
+about.
+
+  2. Organize: Group the keywords into separate lists for the different sections or categories of your website.
+
+  3. Research: There are several tools that let you enter your keywords and then they will suggest additional keywords you might like to consider, such as: 
+     
+     1. adwords.google.co.uk/select/KeywordToolExternal 
+      
+     2. www.wordtracker.com
+     
+     3. www.keyworddiscovery.com
   
+  4. Compare: It is very unlikely that your site will appear at the top of  the search results for everykeyword. This is especially true  for topics where there is a lot of competition. The more sites out there that have already been  optimized for a given keyword, the harder it will be for you to  rise up the search results when people search on that term.
+  
+  5. Refine: Now you need to pick which keywords you will focus on. These should always be the ones that are most relevant to each section of your site.
+  
+  6. Map: Now that you have a refined list of keywords, you know which have the most competition, and which ones are most relevant, it is time to start picking which keywords you will use for each page.
+
+----
+
+#### **Analytics: Learning about your Visitors:** 
+
+**soon as people start coming to your site, you can start analyzing how they found it, what they were looking at and at what point they are leaving. One of the best tools for doing this is a free service offered by Google called Google Analytics.**
+
+  1. Signing Up: The Google Analytics service relies on you signing up for an account at: www.google.com/analytics The site will give you a piece of tracking code which you need to put on every page of your site.
+  
+  2. How it Works: Every time someone loads a page of your site, the tracking code sends data to the Google servers where it is stored. Google then provides a webbased interface that allows you to see how visitors use your site.
+   
+  3. The Tracking Code: A tracking code is provided by Google Analytics for each website you are tracking. It should appear just before the closing `</head>` tag. The code does not alter the appearance of your web pages.
+
+      
 ---
 
 > ## 3. History of Flash 
