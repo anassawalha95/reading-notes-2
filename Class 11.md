@@ -222,19 +222,19 @@
     
   2. On-Page Techniques: On-page techniques are the methods you can use on your web pages to improve their rating in search engines.
   
-    1. Page Title: The page title appears at the top of the browser window or on the tab of a browser.
+   1. Page Title: The page title appears at the top of the browser window or on the tab of a browser.
   
-    2. URL / Web Address: The name of the file is part of the URL. Where possible, use keywords in the file name.
+   2. URL / Web Address: The name of the file is part of the URL. Where possible, use keywords in the file name.
     
-    3. Headings: If the keywords are in a heading `<hn>` element then a search  engine will know that this page is all about that subject and give it greater weight than other text. 
+   3. Headings: If the keywords are in a heading `<hn>` element then a search  engine will know that this page is all about that subject and give it greater weight than other text. 
     
-    4. Text: Where possible, it helps to repeat the keywords in the main body of the text at least 2-3 times. Do not, however, over-use these terms, because the text must be easy for a human to read.
+   4. Text: Where possible, it helps to repeat the keywords in the main body of the text at least 2-3 times. Do not, however, over-use these terms, because the text must be easy for a human to read.
     
-    5. Link Text: Use keywords in the text that create links between pages (rather than using generic expressions such as "click here").
+   5. Link Text: Use keywords in the text that create links between pages (rather than using generic expressions such as "click here").
        
-    6. Image Alt Text: Search engines rely on you providing accurate descriptions of images in the alt text. This will also help your images showup in the results of image-based searches.
+   6. Image Alt Text: Search engines rely on you providing accurate descriptions of images in the alt text. This will also help your images showup in the results of image-based searches.
     
-    7. Page Descriptions: The description also lives inside the `<head>` element and is specified using a <meta> tag. It should be a sentence that describes the content of thepage. (These are not shown in the browser window but theymay be displayed in the results pages of search engines.)
+   7. Page Descriptions: The description also lives inside the `<head>` element and is specified using a <meta> tag. It should be a sentence that describes the content of thepage. (These are not shown in the browser window but theymay be displayed in the results pages of search engines.)
     
     
   3. Off-Page Techniques: Getting other sites to link to you is just as important as on-page techniques. Search engines help determine how to rank your site by looking at the number of other sites that link to yours.
