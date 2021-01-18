@@ -135,6 +135,8 @@
   
 ---
    
+> # Class 13 *Jan 19 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2013)
 
-
-
+  1. Local Storage [Referance](http://diveinto.html5doctor.com/storage.html)
+  
+---
