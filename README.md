@@ -126,4 +126,15 @@
   3. History of Flash 
 
 ---
+
+> # Class 12 *Jan 18 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2012)
+
+  1. Chart.js [Referance](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/) [Documention](https://www.chartjs.org/docs/latest/)
+  
+  2. Canvas [Referance](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+  
+---
    
+
+
+
