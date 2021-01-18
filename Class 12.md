@@ -535,4 +535,4 @@ we need to talk about the canvas grid or coordinate space. Our HTML skeleton fro
 ---
 Github Live: [view](https://anassawalha95.github.io/reading-notes-2/Class%2012)
 
-Github Live: [view](https://github.com/anassawalha95/reading-notes-2/blob/main/Class%2012.md)
+Github Repo: [view](https://github.com/anassawalha95/reading-notes-2/blob/main/Class%2012.md)
