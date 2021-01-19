@@ -26,7 +26,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
 
 ----
 
->##  2. CSS Transform [Referance]:(https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+>##  2. CSS Transform [Referance](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
 ![CSS Transform](https://speckyboy.com/wp-content/uploads/2017/11/css-2.jpg)
 
@@ -38,7 +38,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
 
 #### 1. 2D Transforms:
 
-    1. 2D Rotate: The rotate value provides the ability to rotate an element from 0 to 360 degrees.
+   1. 2D Rotate: The rotate value provides the ability to rotate an element from 0 to 360 degrees.
 
             .box-1 {
                 transform: rotate(20deg);
@@ -47,7 +47,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
                 transform: rotate(-55deg);
             }
 
-    2. 2D Scale: allows you to change the appeared size of an element. 
+   2. 2D Scale: allows you to change the appeared size of an element. 
 
             .box-1 {
                 transform: scale(.75);
@@ -56,7 +56,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
                 transform: scale(1.25);
             }
 
-    3. 2D Translate: works a bit like that of relative positioning, pushing and pulling an element in different directions without interrupting the normal flow of the document. As with the scale value, to set both the x and y axis values at once, use the translate value and declare the x axis value first, followed by a comma, and then the y axis value.
+   3. 2D Translate: works a bit like that of relative positioning, pushing and pulling an element in different directions without interrupting the normal flow of the document. As with the scale value, to set both the x and y axis values at once, use the translate value and declare the x axis value first, followed by a comma, and then the y axis value.
 
             .box-1 {
                  transform: translateX(-10px);
@@ -68,7 +68,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
                 transform: translate(-10px, 25%);
             }
 
-    4. 2D Skew: used to distort elements on the horizontal axis, vertical axis, or both.
+   4. 2D Skew: used to distort elements on the horizontal axis, vertical axis, or both.
 
             .box-1 {
                 transform: skewX(5deg);
@@ -80,7 +80,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
                 transform: skew(5deg, -20deg);
             }
 
-    5. Transform Origin: the default transform origin is the dead center of an element, both 50% horizontally and 50% vertically. 
+   5. Transform Origin: the default transform origin is the dead center of an element, both 50% horizontally and 50% vertically. 
 
             .box-1 {
                 transform: rotate(15deg);
@@ -100,7 +100,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
             }
 
 
-    6. Perspective: work the elements need a perspective from which to transform
+   6. Perspective: work the elements need a perspective from which to transform
 
         .box {
             transform: perspective(200px) rotateX(45deg);
@@ -110,7 +110,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
 
 #### 2. 3D Transforms:
 
-    1. 3D Rotate: allows you to rotate an element around the x axis, as if it were being bent in half horizontally. Using the rotateY value allows you to rotate an element around the y axis, as if it were being bent in half vertically. Lastly, using the rotateZ value allows an element to be rotated around the z axis.
+   1. 3D Rotate: allows you to rotate an element around the x axis, as if it were being bent in half horizontally. Using the rotateY value allows you to rotate an element around the y axis, as if it were being bent in half vertically. Lastly, using the rotateZ value allows an element to be rotated around the z axis.
 
         .box-1 {
             transform: perspective(200px) rotateX(45deg);
@@ -122,7 +122,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
             transform: perspective(200px) rotateZ(45deg);
         }
 
-    2. 3D Scale: By using the scaleZ three-dimensional transform elements may be scaled on the z axis.
+   2. 3D Scale: By using the scaleZ three-dimensional transform elements may be scaled on the z axis.
 
         .box-1 {
             transform: perspective(200px) scaleZ(1.75) rotateX(45deg);
@@ -131,7 +131,7 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
             transform: perspective(200px) scaleZ(.25) rotateX(45deg);
         }
 
-    3. 3D Translate : elements may also be translated on the z axis using the translateZ value. 
+   3. 3D Translate : elements may also be translated on the z axis using the translateZ value. 
 
         .box-1 {
             transform: perspective(200px) translateZ(-50px);
