@@ -218,18 +218,18 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
 
 #### Side Projects to View:
 
-**6 Buttons animated [6 Buttons animated](http://codepen.io/retyui/pen/ByoaXV)**
+**6 Buttons animated [Link](http://codepen.io/retyui/pen/ByoaXV)**
 
 
-**CSS3 Animations: Keyframes [CSS3 Animations](http://codepen.io/akshaychauhan/pen/oAfae)**
-
-
-
-**404 [404](http://codepen.io/kieranfivestars/pen/MYdQxX)**
+**CSS3 Animations: Keyframes [Link](http://codepen.io/akshaychauhan/pen/oAfae)**
 
 
 
-**Pure CSS Bounce Animation [Pure CSS Bounce Animations](http://codepen.io/dp_lewis/pen/gCfBv)**
+**404 [Link](http://codepen.io/kieranfivestars/pen/MYdQxX)**
+
+
+
+**Pure CSS Bounce Animation [Link](http://codepen.io/dp_lewis/pen/gCfBv)**
 
 
 ----
