@@ -112,33 +112,33 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
 
    1. 3D Rotate: allows you to rotate an element around the x axis, as if it were being bent in half horizontally. Using the rotateY value allows you to rotate an element around the y axis, as if it were being bent in half vertically. Lastly, using the rotateZ value allows an element to be rotated around the z axis.
 
-        .box-1 {
-            transform: perspective(200px) rotateX(45deg);
-        }
-        .box-2 {
-            transform: perspective(200px) rotateY(45deg);
-        }
-        .box-3 {
-            transform: perspective(200px) rotateZ(45deg);
-        }
+          .box-1 {
+              transform: perspective(200px) rotateX(45deg);
+          }
+          .box-2 {
+              transform: perspective(200px) rotateY(45deg);
+          }
+          .box-3 {
+              transform: perspective(200px) rotateZ(45deg);
+          }
 
    2. 3D Scale: By using the scaleZ three-dimensional transform elements may be scaled on the z axis.
 
-        .box-1 {
-            transform: perspective(200px) scaleZ(1.75) rotateX(45deg);
-        }
-        .box-2 {
-            transform: perspective(200px) scaleZ(.25) rotateX(45deg);
-        }
+          .box-1 {
+              transform: perspective(200px) scaleZ(1.75) rotateX(45deg);
+          }
+          .box-2 {
+              transform: perspective(200px) scaleZ(.25) rotateX(45deg);
+          }
 
    3. 3D Translate : elements may also be translated on the z axis using the translateZ value. 
 
-        .box-1 {
-            transform: perspective(200px) translateZ(-50px);
-        }
-        .box-2 {
-            transform: perspective(200px) translateZ(50px);
-        }
+          .box-1 {
+              transform: perspective(200px) translateZ(-50px);
+          }
+          .box-2 {
+              transform: perspective(200px) translateZ(50px);
+          }
 
 ----
 
@@ -161,19 +161,19 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
 
 * **Transitional Properties:** The transition-property property determines exactly what properties will be altered in conjunction with the other transitional properties. By default, all of the properties within an element’s different states will be altered upon change.
 
-        | background-color | background-position |  border-color  |
-        |:----------------:|:-------------------:|:--------------:|
-        |   border-width   |    border-spacing   |     bottom     |
-        |       clip       |        color        |      crop      |
-        |     font-size    |     font-weight     |     height     |
-        |       left       |    letter-spacing   |   line-height  |
-        |      margin      |      max-height     |    max-width   |
-        |    min-height    |      min-width      |     opacity    |
-        |   outline-color  |    outline-offset   |  outline-width |
-        |      padding     |        right        |   text-indent  |
-        |    text-shadow   |         top         | vertical-align |
-        |    visibility    |        width        |  word-spacing  |
-        |      z-index     |                     |                |
+       | background-color | background-position |  border-color  |
+       |:----------------:|:-------------------:|:--------------:|
+       |   border-width   |    border-spacing   |     bottom     |
+       |       clip       |        color        |      crop      |
+       |     font-size    |     font-weight     |     height     |
+       |       left       |    letter-spacing   |   line-height  |
+       |      margin      |      max-height     |    max-width   |
+       |    min-height    |      min-width      |     opacity    |
+       |   outline-color  |    outline-offset   |  outline-width |
+       |      padding     |        right        |   text-indent  |
+       |    text-shadow   |         top         | vertical-align |
+       |    visibility    |        width        |  word-spacing  |
+       |      z-index     |                     |                |
 
                 HTML
 
