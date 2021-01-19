@@ -161,19 +161,19 @@ After that Rozvoky met with Matt Sakaguchi who was athletic and got hired as mid
 
 * **Transitional Properties:** The transition-property property determines exactly what properties will be altered in conjunction with the other transitional properties. By default, all of the properties within an element’s different states will be altered upon change.
 
-       | background-color | background-position |  border-color  |
-       |:----------------:|:-------------------:|:--------------:|
-       |   border-width   |    border-spacing   |     bottom     |
-       |       clip       |        color        |      crop      |
-       |     font-size    |     font-weight     |     height     |
-       |       left       |    letter-spacing   |   line-height  |
-       |      margin      |      max-height     |    max-width   |
-       |    min-height    |      min-width      |     opacity    |
-       |   outline-color  |    outline-offset   |  outline-width |
-       |      padding     |        right        |   text-indent  |
-       |    text-shadow   |         top         | vertical-align |
-       |    visibility    |        width        |  word-spacing  |
-       |      z-index     |                     |                |
+| background-color | background-position |  border-color  |
+|:----------------:|:-------------------:|:--------------:|
+|   border-width   |    border-spacing   |     bottom     |
+|       clip       |        color        |      crop      |
+|     font-size    |     font-weight     |     height     |
+|       left       |    letter-spacing   |   line-height  |
+|      margin      |      max-height     |    max-width   |
+|    min-height    |      min-width      |     opacity    |
+|   outline-color  |    outline-offset   |  outline-width |
+|      padding     |        right        |   text-indent  |
+|    text-shadow   |         top         | vertical-align |
+|    visibility    |        width        |  word-spacing  |
+|      z-index     |                     |                |
 
                 HTML
 
