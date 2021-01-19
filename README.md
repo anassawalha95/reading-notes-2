@@ -140,3 +140,21 @@
   1. Local Storage [Referance](http://diveinto.html5doctor.com/storage.html)
   
 ---
+
+> # Class 14a *Jan 20 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2014a)
+
+   1. Build the Perfect Team 
+
+   2. CSS Transform 
+
+   3. CSS Transitions & Animations 
+  
+  
+---
+
+> # Class 14b *Jan 20 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2014b)
+
+  1.  Build the Perfect Team 
+  
+---
+
